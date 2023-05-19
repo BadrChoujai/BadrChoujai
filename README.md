@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badr CHOUJAI</h1>
 
-- 🔭 I’m currently working @Hi5Group
+- 🔭 I’m currently working @LNKBOOT
 - 💬 Ask me about **VueJs, Laravel, PHP, Javascript, anything related to Full Stack Web Development.**
 - 📫 How to reach me **choujai.badr@gmail.com**
 
