@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badr CHOUJAI</h1>
 
-- 🔭 I’m currently working @**L'NKBOOT**
-- 💬 Ask me about **VueJs, Laravel, PHP, Javascript, anything related to Full Stack Web Development.**
+- 🔭 I’m currently working @**L'NKBOOT** as a Full Stack Developer
+- 💬 Ask me about **VueJs, Laravel, PHP, Javascript... and anything related to Full Stack Web Development.**
 - 📫 How to reach me **choujai.badr@gmail.com**
 
 <p align="left">
