@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name's Badr</h1>
+<h1 align="center">Hi 👋, I'm Badr</h1>
 
 - 🔭 I’m currently working **[@TingisWeb](https://tingisweb.com/)** as a Full Stack Developer
 - 💬 I have Knowledge and experience with **ReactJs, VueJs, NuxtJs, Laravel, PHP, Javascript and Typescript... and anything related to Full Stack Web Development.**
