@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badr</h1>
 
-- 🔭 I’m currently working **[@TingisWeb](https://tingisweb.com/)** as a Full Stack Developer
-- 💬 I have Knowledge and experience with **ReactJs, VueJs, NuxtJs, Laravel, PHP, Javascript and Typescript... and anything related to Full Stack Web Development.**
+- 🔭 I’m currently working **[@AcuityAnalytics](https://www.acuityanalytics.com/)** as a Software Engineer
+- 💬 I have Knowledge and experience with anything related to **PHP and Javascript**
 - 📫 How to reach me **choujai.badr@gmail.com**
 
 <p align="left">
