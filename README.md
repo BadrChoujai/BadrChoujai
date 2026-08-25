@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Badr</h1>
 
-- 🔭 I’m currently working **[@AcuityAnalytics](https://www.acuityanalytics.com/)** as a Software Engineer
-- 💬 I have Knowledge and experience with anything related to **PHP and Javascript**
-- 📫 How to reach me **choujai.badr@gmail.com**
+- 🔭 I’m a Software Engineer **[@AcuityAnalytics](https://www.acuityanalytics.com/)**
+- 💬 Into Tech and Sports
+- 📫 Want to talk about something cool 👉 **choujai.badr@gmail.com**
 
 <p align="left">
 <h4>Connect with me on:</h4>
